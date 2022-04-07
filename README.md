@@ -1,4 +1,8 @@
-### Hi there 👋
+### 💦 Water_Min 💦
+#### I want to move forward in a good way 🦕
+
+-  💻 I’m interested in back-end.
+-  🌱 I’m currently learning JS.
 
 <!--
 **Hwangsoomin/Hwangsoomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
